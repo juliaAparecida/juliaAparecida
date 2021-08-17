@@ -1,8 +1,5 @@
 ### Hi there 👋
-
-
-
-
+Olá, meu nome é Julia Araujo e sou desenvolvedora Front-End. Desde 2019 estou na área de programação e atualmente trabalho na Alura. 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-araujo-876638169/)
 
